@@ -1,0 +1,1 @@
+randomNumber = Math.floor(randomNumber);
